@@ -1,7 +1,7 @@
 {
-  "name": "wizard",
+  "name": "ReactStarter",
   "version": "1.0.0",
-  "description": "Simple wizard component builded with react, it can be used for long forms",
+  "description": "Basic react starting project that work with ES6, SASS, bundle with webpack, and transduced with babel",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davelab/reactWizard.git"
+    "url": "git+https://github.com/davelab/reactStarter.git"
   },
   "author": "Davide Cariani",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davelab/reactWizard/issues"
+    "url": "https://github.com/davelab/reactStarter/issues"
   },
-  "homepage": "https://github.com/davelab/reactWizard#readme",
+  "homepage": "https://github.com/davelab/reactStarter#readme",
   "dependencies": {
     "babel-polyfill": "^6.8.0",
     "react": "^15.0.2",
